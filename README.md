@@ -1,8 +1,6 @@
-# HKD-IAA
+# HKD-IAA (The code is coming soon)
 Cross-Modal Hierarchical Knowledge Distillation for Image Aesthetics Assessment (TMM2024)
 ![img](Method.png)
-
-The code is coming soon
 
 ## 📃 Dependencies
 - pytorch
