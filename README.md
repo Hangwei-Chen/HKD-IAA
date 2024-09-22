@@ -10,7 +10,7 @@ Cross-Modal Hierarchical Knowledge Distillation for Image Aesthetics Assessment 
 - tqdm
 
 - ## ⏬ Download
-- You can download the pre-trained teacher model at here: [Baidu Cloud]()
+- You can download the pre-trained Multimodal teacher model at here: [Baidu Cloud](Password:), or [Google Drive](https:)
 
 ```bash
 Password
