@@ -10,5 +10,9 @@ Cross-Modal Hierarchical Knowledge Distillation for Image Aesthetics Assessment 
 - ## ⏬ Download
 - You can download the pre-trained teacher model at here: [Baidu Cloud]()
 
+```bash
+Password
+```
+
 
 
