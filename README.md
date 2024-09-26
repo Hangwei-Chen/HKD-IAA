@@ -11,8 +11,8 @@ This is the official code for the HKD-IAA (TMM2024).
 
 ## ⏬ Download
 - The pre-trained Multimodal teacher model: [Baidu Cloud](https:). (password: IAA6), or [Google Drive](https:)
-- AVA-Captions dataset Label (User comments have been cleaned): [Baidu Cloud](https://pan.baidu.com/s/1xZ6qV-hMmsQqr9QL-dyrcg). (password: IAA6), or [Google Drive](https://drive.google.com/file/d/1btO_UHf2bbdTMtxpKKByicwq0TE14AyC/view?usp=sharing)
-- The method we use to clean user comments can be found here：[Clean text](https://github.com/V-Sense/Aesthetic-Image-Captioning-ICCVW-2019)
+- AVA-Captions dataset Label (The User comments have been cleaned): [Baidu Cloud](https://pan.baidu.com/s/1xZ6qV-hMmsQqr9QL-dyrcg). (password: IAA6), or [Google Drive](https://drive.google.com/file/d/1btO_UHf2bbdTMtxpKKByicwq0TE14AyC/view?usp=sharing)
+- For details on comment cleaning method, visit：[Clean text](https://github.com/V-Sense/Aesthetic-Image-Captioning-ICCVW-2019)
 
 ## 📂 Dataset and comments
 - You can download the AVA database at here: [AVA](https://github.com/imfing/ava_downloader)
