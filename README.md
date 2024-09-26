@@ -10,11 +10,13 @@ Cross-Modal Hierarchical Knowledge Distillation for Image Aesthetics Assessment 
 - tqdm
 
 ## ⏬ Download
-- You can download the pre-trained Multimodal teacher model at: [Baidu Cloud](https:). (password: HKDIAA), or [Google Drive](https:)
+- The pre-trained Multimodal teacher model: [Baidu Cloud](https:). (password: HKDIAA), or [Google Drive](https:)
+- AVA-Captions dataset Label (User comments have been cleaned): [Baidu Cloud](https:). (password: HKDIAA), or [Google Drive](https:)
+- The method we use to clean user comments can be found here：[Clean text](https://github.com/V-Sense/Aesthetic-Image-Captioning-ICCVW-2019)
 
-## 📂 Dataset and Preprocessing
+## 📂 Dataset and comments
 - You can download the AVA database at here: [AVA](https://github.com/imfing/ava_downloader)
-- Methods for cleaning user comments can be found here：[Clean text](https://github.com/V-Sense/Aesthetic-Image-Captioning-ICCVW-2019)
+
 
 ## 📉 Training
 ```
