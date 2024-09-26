@@ -2,7 +2,7 @@ import argparse
 
 def init():
     parser = argparse.ArgumentParser(description="PyTorch")
-    parser.add_argument('--path_to_AVA_images', type=str, default='E:\\CHW_code\\work5\\Master\\AVA_dataset\\image',help='directory to images')
+    parser.add_argument('--path_to_AVA_images', type=str, default='E:\\AVA_dataset\\image',help='directory to images')
 
     parser.add_argument('--path_to_AVA_save_csv', type=str,default="./AVA_data/",help='directory to csv_folder')
 
