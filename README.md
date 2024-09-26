@@ -1,4 +1,4 @@
-# HKD-IAA (The code is coming soon)
+# HKD-IAA
 
 ## 🔗 Framework
 Cross-Modal Hierarchical Knowledge Distillation for Image Aesthetics Assessment (TMM2024)
