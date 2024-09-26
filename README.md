@@ -10,7 +10,7 @@ This is the official code for the HKD-IAA (TMM2024).
 - tqdm
 
 ## ⏬ Download
-- The pre-trained Multimodal teacher model: [Baidu Cloud](https:). (password: IAA6), or [Google Drive](https:)
+- The pre-trained Multimodal teacher model: [Baidu Cloud](https://pan.baidu.com/s/1n3u3kwvj4s9NLeWLkD6nZA). (password: IAA6), or [Google Drive](https://drive.google.com/file/d/1i9OSUeMsXdzapnDY4aqpf7eX-lC3dk7_/view?usp=sharing)
 - The AVA-Captions dataset Label (The User comments have been cleaned): [Baidu Cloud](https://pan.baidu.com/s/1xZ6qV-hMmsQqr9QL-dyrcg). (password: IAA6), or [Google Drive](https://drive.google.com/file/d/1btO_UHf2bbdTMtxpKKByicwq0TE14AyC/view?usp=sharing)
 - The method we use to clean user comments can be found here：[Clean comments](https://github.com/V-Sense/Aesthetic-Image-Captioning-ICCVW-2019)
 
