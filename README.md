@@ -2,7 +2,6 @@
 This is the official code for the HKD-IAA (TMM2024).
 ## 🔗 Paper Link
 - **Title**: Cross-Modal Hierarchical Knowledge Distillation for Image Aesthetics Assessment. [Link](https:)
-- 
 ![img](Method.png)
 
 ## 📃 Dependencies
